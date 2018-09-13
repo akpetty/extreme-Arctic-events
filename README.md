@@ -16,7 +16,7 @@ seaborn (for plotting)
 
 Should be able to easily install with conda
 
-conda install numpy, matplotlib, pandas, seaborn. 
+conda install numpy matplotlib pandas seaborn
 
 Can provide an environment file on request if needed. 
 
